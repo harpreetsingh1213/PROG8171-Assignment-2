@@ -1,0 +1,15 @@
+D:\W24\Software Quality\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\W24\Software Quality\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfoInputs.cache
+D:\W24\Software Quality\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfo.cs
+D:\W24\Software Quality\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.csproj.CoreCompileInputs.cache
+D:\W24\Software Quality\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.sourcelink.json
+D:\W24\Software Quality\Assignment2\Assignment2\bin\Debug\net8.0\Assignment2.exe
+D:\W24\Software Quality\Assignment2\Assignment2\bin\Debug\net8.0\Assignment2.deps.json
+D:\W24\Software Quality\Assignment2\Assignment2\bin\Debug\net8.0\Assignment2.runtimeconfig.json
+D:\W24\Software Quality\Assignment2\Assignment2\bin\Debug\net8.0\Assignment2.dll
+D:\W24\Software Quality\Assignment2\Assignment2\bin\Debug\net8.0\Assignment2.pdb
+D:\W24\Software Quality\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.dll
+D:\W24\Software Quality\Assignment2\Assignment2\obj\Debug\net8.0\refint\Assignment2.dll
+D:\W24\Software Quality\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.pdb
+D:\W24\Software Quality\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.genruntimeconfig.cache
+D:\W24\Software Quality\Assignment2\Assignment2\obj\Debug\net8.0\ref\Assignment2.dll

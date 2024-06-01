@@ -7,12 +7,16 @@ using System.Xml.Linq;
 
 namespace Assignment2
 {
-    internal class Product
+    /// <summary>
+    /// Student Name - Harpreet Singh
+    /// Student ID - 8980374
+    /// </summary>
+    public class Product
     {
-        public int productID;
-        public string productName;
-        public double price;
-        public double stock;
+        private int productID;
+        private string productName;
+        private double price;
+        private double stock;
 
         public int ProductID
         {
